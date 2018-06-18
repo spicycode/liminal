@@ -178,7 +178,6 @@
         "foreground": "#91c5d3"
       }
     },
-
     {
       "name": "Inserted",
       "scope": "markup.inserted",
@@ -257,5 +256,6 @@
         "fontStyle": "italic"
       }
     }
+
   ]
 }
